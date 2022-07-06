@@ -1,0 +1,39 @@
+header {
+text-align: center;
+background-color: rgb(128, 79, 0);
+}
+
+main {
+  background-color: #d3d3d3;
+  padding: 1em;
+  text-indent: inherit;
+
+}
+
+body{
+  background-image: url("record.png");
+  background-size: contain;
+  background-repeat: repeat;
+  margin: 0;
+}
+
+footer {
+  background-color: #d3d3d3;
+  text-align: center;
+  margin-top: 10em;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+h5 {
+  color: rgb(98, 0, 255);
+  font-size: 15px;
+  font-family: cursive;
+  font-weight: bold;
+}
